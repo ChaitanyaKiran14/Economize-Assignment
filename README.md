@@ -35,10 +35,9 @@ When contributing to this project, please adhere to the following guidelines:
 ## Usage
 - Run the development server:
   ```bash
-  npm start
+  npm run dev
   ```
 
 - Open your browser and visit [http://localhost:3000](http://localhost:3000).
 
-## Contributing
-Contributions are welcome! If
+
